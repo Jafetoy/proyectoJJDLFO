@@ -1,6 +1,6 @@
 # Portal personal profesional de identidad
 <p align="center">
-<img src ="logos.png" width="300">
+<img src ="varios/logos.png" width="300">
 </p>
 
 ---
