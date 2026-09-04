@@ -21,7 +21,7 @@ Estructura de la plantilla:
 /--
 - CSS .- Hojas de estilo para las páginas html
 - img .- Imagenes utilizadas en las páginas html
-- logos .- Archivos para el diseño de readme
+- varios .- Archivos para el diseño de readme
 
 Autor:
 jafetoy
